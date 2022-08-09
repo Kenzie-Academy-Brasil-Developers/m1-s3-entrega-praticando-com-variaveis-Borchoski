@@ -4,9 +4,8 @@ let anoNascimento = 1991
 let cidade = ("Curitiba")
 let anoAtual = 2022
 let idade = (anoAtual-anoNascimento)
-console.log("Eu sou o "+nome+" "+sobrenome+ " tenho "+(anoAtual-anoNascimento)+" anos e moro em "+cidade+".")
 
-
+console.log(`Eu sou o ${nome} ${sobrenome} tenho ${anoAtual-anoNascimento} anos e moro em ${cidade}.`)
 
 
 
